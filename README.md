@@ -2,7 +2,7 @@
 
 O projeto utiliza docker, de forma a facilitar a configuração do ambiente.
 
-Bastar rodar:
+Após o download do projeto, bastar rodar o comando a seguir na raiz do repositório 
 
 `docker-compose up --build`
 
