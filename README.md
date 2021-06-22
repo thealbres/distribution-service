@@ -1,4 +1,4 @@
-# destribution-test
+# distribution-service
 
 O projeto utiliza docker, de forma a facilitar a configuração do ambiente.
 
