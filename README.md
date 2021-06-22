@@ -16,4 +16,4 @@ O projeto ainda não está terminado, falta fazer a tratativa de possíveis erro
 
 Bom, provalmente se você já está vendo isso é um dos meus amigos, então qualquer dúvida, erro encontrado ou sugestão, por favor, chama no zap lindeza
 
-Diverta-se!
+Divirta-se!
